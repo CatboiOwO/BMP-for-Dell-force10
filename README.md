@@ -16,15 +16,25 @@ Copy this text and save
 ────────────────────────────────────────────────────────────────
 
 hostname S4810-1
+
 username admin password Your-Password privilege 15
+
 enable password Your-Password
+
 interface ManagementEthernet 0/0
+
  ip address 192.168.100.10/24
+ 
   no shutdown
+  
  management route 0.0.0.0/0 192.168.100.1
+ 
 ip ssh server enable
+
 line vty 0 9
+
  password Your-Password
+ 
  login
  
  
