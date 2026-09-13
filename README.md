@@ -45,4 +45,9 @@ Click setting → DHCP and configure like that:
 
 
 
+
+
+
+
+
  ![image alt]() 
