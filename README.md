@@ -77,7 +77,7 @@ Click setting → DHCP and configure like that:
 
 
 
- ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Logs%20Tftpd64.PNG?raw=true)
+ ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Tftp%20Tftpd64.PNG?raw=true)
 
  8.Last step before start.
     Restart Tftpd64.
@@ -94,6 +94,5 @@ Click setting → DHCP and configure like that:
 
 
 
- ![image alt](<img width="702" height="408" alt="image" src="https://github.com/user-attachments/assets/378a6135-bbb0-412f-aa41-585251a5256b" />
-) 
+ ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Logs%20Tftpd64.PNG?raw=true)
 Here you gonna se logs like
