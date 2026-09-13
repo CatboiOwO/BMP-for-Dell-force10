@@ -50,7 +50,8 @@ Ip address: 192.168.100.1
 subnet mask 255.255.255.0
 Save
 
-7. Now you need start Tftpd64 
+7. Now you need start Tftpd64
+
 Click setting → DHCP and configure like that:
 
 
@@ -101,13 +102,14 @@ Click setting → DHCP and configure like that:
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Logs%20Tftpd64.PNG?raw=true)
 
 9. Wait for the switch to start up and load the initialization file.
+10. 
     Now use putty and go to ssh.
     Port: 22
     Ip address: 192.168.100.10
     Username: admin
     Password: Your-Password
 
-10. Enjoy your bmp.
+11. Enjoy your bmp.
 
 
 
