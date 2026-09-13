@@ -8,12 +8,16 @@ I am using Windows 10 pro and gonna use Dell force10 4810 OS9
    
 ⤷https://pjo2.github.io/tftpd64/
 
+
+
 3. Make folder, example name "Dell"
 
 4. In folder make .txt file or download "bmp-config.txt"
 
+
+
 5. If you download jump to 5
-   
+
 File Name: bmp-config.txt
 
 Copy this text and save
@@ -44,13 +48,19 @@ line vty 0 9
  
  
 ────────────────────────────────────────────────────────────────
+
+
 6. Go to network card settings and configure like that:
+   
 IPv4 Settings
+
 Ip address: 192.168.100.1
+
 subnet mask 255.255.255.0
+
 Save
 
-7. Now you need start Tftpd64
+8. Now you need start Tftpd64
 
 Click setting → DHCP and configure like that:
 
