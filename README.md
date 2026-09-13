@@ -120,14 +120,15 @@ Click setting → DHCP and configure like that:
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Logs%20Tftpd64.PNG?raw=true)
 
 9. Wait for the switch to start up and load the initialization file.
-10. 
+
+11. 
     Now use putty and go to ssh.
     Port: 22
     Ip address: 192.168.100.10
     Username: admin
     Password: Your-Password
 
-11. Enjoy your bmp.
+12. Enjoy your bmp.
 
 
 
