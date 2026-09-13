@@ -63,6 +63,7 @@ Click setting → DHCP and configure like that:
 
 7. Go now to TFTP  (setting → TFTP)
    Click browse in base directory and navigate to your new folder from step 2.
+   Configure the rest as shown in the photo.
  
 
 
@@ -77,6 +78,10 @@ Click setting → DHCP and configure like that:
 
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Tftp%20Tftpd64.PNG?raw=true)
 
+ 8.Last step before start.
+    Restart Tftpd64.
+    Connect mgmt port in your swicth to your PC/Laptop. (Network card we configured before)
+    Power on switch.
 
 
 
@@ -87,4 +92,7 @@ Click setting → DHCP and configure like that:
 
 
 
- ![image alt]() 
+
+ ![image alt](<img width="702" height="408" alt="image" src="https://github.com/user-attachments/assets/378a6135-bbb0-412f-aa41-585251a5256b" />
+) 
+Here you gonna se logs like
