@@ -13,7 +13,9 @@ I am using Windows 10 pro and gonna use Dell force10 4810 OS9
 4. In folder make .txt file or download "bmp-config.txt"
 
 5. If you download jump to 5
+   
 File Name: bmp-config.txt
+
 Copy this text and save
 
 ────────────────────────────────────────────────────────────────
