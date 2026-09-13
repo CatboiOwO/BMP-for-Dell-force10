@@ -1,6 +1,6 @@
 Hai everyone,
 
-Here is instruktion how to use BMP is Dell force10.
+Here is instruktion how to use BMP is Dell force10 step by step.
 
 I am using Windows 10 pro and gonna use Dell force10 4810 OS9
 
@@ -83,7 +83,7 @@ Click setting → DHCP and configure like that:
     Restart Tftpd64.
     Connect mgmt port in your swicth to your PC/Laptop. (Network card we configured before)
     Power on switch.
-
+    If you go to Log Viewer and press Server Interface to 192.168.100.1 you gonna see that switch get ip and file via Tftp.
 
 
 
@@ -95,8 +95,15 @@ Click setting → DHCP and configure like that:
 
 
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Logs%20Tftpd64.PNG?raw=true)
-Here you gonna se logs like
 
+9. Wait for the switch to start up and load the initialization file.
+    Now use putty and go to ssh.
+    Port: 22
+    Ip address: 192.168.100.10
+    Username: admin
+    Password: Your-Password
+
+10. Enjoy your bmp.
 
 
 
