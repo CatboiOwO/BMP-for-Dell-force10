@@ -13,7 +13,9 @@ I am using Windows 10 pro and gonna use Dell force10 4810 OS9
 
 4. If you download jump to 5.
 Copy this text and save
-↓      ↓      ↓      ↓      ↓      ↓────────────────────────────────────────────────────────────────
+
+↓      ↓      ↓      ↓      ↓      ↓
+────────────────────────────────────────────────────────────────
 
 hostname S4810-1
 
