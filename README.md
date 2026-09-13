@@ -35,6 +35,17 @@ Save
 
 6. Now you need start Tftpd64 
 Click setting → DHCP and configure like that:
+
+
+
+
+
+
+
+
+
+
+
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/DHCP%20Ttpd64.PNG?raw=true) 
 
 
