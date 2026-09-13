@@ -60,6 +60,8 @@ subnet mask 255.255.255.0
 
 Save
 
+
+
 8. Now you need start Tftpd64
 
 Click setting → DHCP and configure like that:
