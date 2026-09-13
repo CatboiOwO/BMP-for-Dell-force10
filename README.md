@@ -5,16 +5,16 @@ Here is instruktion how to use BMP is Dell force10 step by step.
 I am using Windows 10 pro and gonna use Dell force10 4810 OS9
 
 1. You need to download Tftpd64 or any alternative TFTP/DHCP server to host the boot files
+   
 ⤷https://pjo2.github.io/tftpd64/
 
-2. Make folder, example name "Dell"
+3. Make folder, example name "Dell"
 
-3. In folder make .txt file or download "bmp-config.txt"
+4. In folder make .txt file or download "bmp-config.txt"
 
-4. If you download jump to 5.
+5. If you download jump to 5
+File Name: bmp-config.txt
 Copy this text and save
-
-↓      ↓      ↓      ↓      ↓      ↓
 
 ────────────────────────────────────────────────────────────────
 
