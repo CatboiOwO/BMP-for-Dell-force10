@@ -26,8 +26,7 @@ line vty 0 9
  password Your-Password
  login
 ────────────────────────────────────────────────────────────────
-5.
-Go to network card settings and configure like that:
+5. Go to network card settings and configure like that:
 IPv4 Settings
 Ip address: 192.168.100.1
 subnet mask 255.255.255.0
@@ -48,6 +47,22 @@ Click setting → DHCP and configure like that:
 
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/DHCP%20Ttpd64.PNG?raw=true) 
 
+
+7. Go now to TFTP  (setting → TFTP)
+   Click browse in base directory and navigate to your new folder from step 2.
+ 
+
+
+
+
+
+
+
+
+
+
+
+ ![image alt]([https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/DHCP%20Ttpd64.PNG?raw=true](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Tftp%20Tftpd64.PNG?raw=true)) 
 
 
 
