@@ -96,3 +96,8 @@ Click setting → DHCP and configure like that:
 
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Logs%20Tftpd64.PNG?raw=true)
 Here you gonna se logs like
+
+
+
+
+
