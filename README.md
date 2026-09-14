@@ -1,4 +1,4 @@
-# Auto cofiguration after factory reset via managment port (BMP)
+# Auto cofiguration after factory reset via management port (BMP)
 Hai everyone,
 
 Here is instruktion how to use BMP for Dell force10 step by step.
