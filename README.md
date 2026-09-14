@@ -23,7 +23,7 @@ File Name: bmp-config.txt
 Copy this text and save
 
 ────────────────────────────────────────────────────────────────
-
+```
 hostname S4810-1
 
 username admin password Your-Password privilege 15
@@ -45,7 +45,7 @@ line vty 0 9
  password Your-Password
  
  login
- 
+ ```
  
 ────────────────────────────────────────────────────────────────
 
