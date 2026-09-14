@@ -16,9 +16,9 @@ I am using Windows 10 pro and gonna use Dell force10 4810 OS9
 
 If you download jump to 5
 
-File Name: bmp-config.txt
+⋆File Name: bmp-config.txt
 
-Copy this text and save
+⋆Copy this text and save
 
 ────────────────────────────────────────────────────────────────
 ```
@@ -52,11 +52,11 @@ line vty 0 9
    
 IPv4 Settings
 
-Ip address: 192.168.100.1
+⋆Ip address: 192.168.100.1
 
-subnet mask 255.255.255.0
+⋆subnet mask 255.255.255.0
 
-Save
+⋆Save
 
 
 
@@ -97,11 +97,11 @@ Click setting → DHCP and configure like that:
 
  7. Last step before start.
  
-    Restart Tftpd64.
+   ⋆ Restart Tftpd64.
     
-    Connect mgmt port in your swicth to your PC/Laptop. (Network card we configured before)
+   ⋆ Connect mgmt port in your swicth to your PC/Laptop. (Network card we configured before)
     
-    Power on switch.
+   ⋆ Power on switch.
     
     If you go to Log Viewer and press Server Interface to 192.168.100.1 you gonna see that switch get ip and file via Tftp.
 
