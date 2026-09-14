@@ -101,7 +101,7 @@ Click setting → DHCP and configure like that:
  
     Restart Tftpd64.
     
-    Connect mgmt port in your swicth to your PC/Laptop. (Network card we configured before)
+    Connect mgmt port in your swicth to your PC/Laptop. Network card we configured before
     
     Power on switch.
     
