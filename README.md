@@ -62,7 +62,7 @@ Save
 
 
 
-7. Now you need start Tftpd64
+6. Now you need start Tftpd64
 
 Click setting → DHCP and configure like that:
 
@@ -79,7 +79,7 @@ Click setting → DHCP and configure like that:
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/DHCP%20Ttpd64.PNG?raw=true) 
 
 
-6. Go now to TFTP  (setting → TFTP).
+7. Go now to TFTP  (setting → TFTP).
    Click browse in base directory and navigate to your new folder from step 2.
    
    Configure the rest as shown in the photo.
@@ -97,7 +97,7 @@ Click setting → DHCP and configure like that:
 
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Tftp%20Tftpd64.PNG?raw=true)
 
- 7.Last step before start.
+ 8.Last step before start.
  
     Restart Tftpd64.
     
@@ -118,7 +118,7 @@ Click setting → DHCP and configure like that:
 
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Logs%20Tftpd64.PNG?raw=true)
 
-8. Wait for the switch to start up and load the initialization file.
+9. Wait for the switch to start up and load the initialization file.
    
     Now use putty and go to ssh.
    
@@ -130,7 +130,7 @@ Click setting → DHCP and configure like that:
    
     Password: Your-Password
 
-9. Enjoy your bmp.
+10. Enjoy your bmp.
 
 
 
