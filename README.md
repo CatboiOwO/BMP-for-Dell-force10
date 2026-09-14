@@ -97,7 +97,7 @@ Click setting → DHCP and configure like that:
 
  ![image alt](https://github.com/CatboiOwO/OwO-BMP-for-Dell-force-10/blob/main/BMP-for-Dell-force-10%20photo/Tftp%20Tftpd64.PNG?raw=true)
 
- 8.Last step before start.
+ 8. Last step before start.
  
     Restart Tftpd64.
     
