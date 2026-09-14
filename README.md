@@ -77,6 +77,7 @@ Click setting → DHCP and configure like that:
 
 
 6. Go now to TFTP  (setting → TFTP).
+7. 
    Click browse in base directory and navigate to your new folder from step 2.
    
    Configure the rest as shown in the photo.
@@ -118,7 +119,7 @@ Click setting → DHCP and configure like that:
 
 8. Wait for the switch to start up and load the initialization file.
    
-    Now use putty and go to ssh.
+    Now start putty and go to ssh.
    
     Port: 22
    
