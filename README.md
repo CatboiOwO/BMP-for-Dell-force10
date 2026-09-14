@@ -1,6 +1,6 @@
 Hai everyone,
 
-Here is instruktion how to use BMP is Dell force10 step by step.
+Here is instruktion how to use BMP for Dell force10 step by step.
 
 I am using Windows 10 pro and gonna use Dell force10 4810 OS9
 
