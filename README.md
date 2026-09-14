@@ -101,7 +101,7 @@ Click setting → DHCP and configure like that:
     
    ⋆ Power on switch.
     
-    If you go to Log Viewer and press Server Interface to 192.168.100.1 you gonna see that switch get ip and file via Tftp.
+   If you go to Log Viewer and press Server Interface to 192.168.100.1 you gonna see that switch get ip and file via Tftp.
 
 
 
